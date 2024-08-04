@@ -1,6 +1,6 @@
 public class Ex1 {
     public static void main(String[] args){
-        int kor = 100;
+        int kor = 95;
         int eng = 90;
         int math = 88;
         int sum = kor + eng + math;
